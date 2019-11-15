@@ -1,0 +1,28 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "try a node js project of weather-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "no test yet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xlljoy/weather-app.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "xlljoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xlljoy/weather-app/issues"
+  },
+  "homepage": "https://github.com/xlljoy/weather-app#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.7.2",
+    "express": "^4.17.1",
+    "request": "^2.88.0"
+  }
+}
